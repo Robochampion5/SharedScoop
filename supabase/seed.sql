@@ -1,0 +1,7 @@
+INSERT INTO public.products (name, description, wholesale_price, retail_price, image_url, category) VALUES
+('Optimum Nutrition Gold Standard 100% Whey', 'Post-workout muscle support & recovery. 24g of protein per serving.', 4500, 6200, 'https://images.unsplash.com/photo-1593095948071-474c5cc2989d?q=80&w=600&auto=format&fit=crop', 'Supplements'),
+('MuscleBlaze Biozyme Performance Whey', 'India''s first clinically tested whey protein for enhanced absorption.', 3800, 5000, 'https://images.unsplash.com/photo-1546483875-ad9014c88eba?q=80&w=600&auto=format&fit=crop', 'Supplements'),
+('BSN N.O.-Xplode Pre-Workout', 'Legendary pre-workout powder for explosive energy, focus, and pump.', 2800, 3999, 'https://images.unsplash.com/photo-1610444585324-4fcff731969a?q=80&w=600&auto=format&fit=crop', 'Pre-Workout'),
+('GNC Mega Men Sport Daily Multivitamin', 'Formulated for men to support cardiovascular health.', 1800, 2500, 'https://images.unsplash.com/photo-1584308666744-24d5e1ff833b?q=80&w=600&auto=format&fit=crop', 'Vitamins'),
+('Rogue Fitness Echo Bike', 'Overbuilt, sturdy, and designed for high-intensity interval training.', 65000, 85000, 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=600&auto=format&fit=crop', 'Equipment'),
+('Lululemon The Reversible Mat 5mm', 'Extra cushioning and a sticky grip will help you power through your hot yoga practice.', 4500, 6500, 'https://images.unsplash.com/photo-1606902965551-dce093cda6e7?q=80&w=600&auto=format&fit=crop', 'Accessories');
