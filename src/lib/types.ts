@@ -42,14 +42,15 @@ export interface Vendor {
 
 export interface Product {
   id: string;
-  vendor_id: string;
+  vendor_id?: string;
   name: string;
   description: string;
   wholesale_price: number;
   retail_price: number;
   image_url: string;
   weight: string;
-  created_at: string;
+  rating?: number;
+  created_at?: string;
   vendor?: Vendor;
 }
 

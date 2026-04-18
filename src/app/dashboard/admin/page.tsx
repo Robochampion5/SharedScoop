@@ -31,7 +31,7 @@ const DEMO_PRODUCTS: Product[] = [
     description: "Premium chocolate fudge flavor, 25g protein per serving.",
     retail_price: 1800,
     wholesale_price: 1250,
-    image_url: "/Users/adarshsingh/.gemini/antigravity/brain/6a052c95-610b-447a-9e18-36cbd9c83306/whey_protein_chocolate_1776489514419.png",
+    image_url: "/demo/whey.png",
     weight: "1kg",
     rating: 4.8
   },
@@ -41,7 +41,7 @@ const DEMO_PRODUCTS: Product[] = [
     description: "Clean vanilla flavor, plant-based and gluten-free.",
     retail_price: 1650,
     wholesale_price: 1200,
-    image_url: "/Users/adarshsingh/.gemini/antigravity/brain/6a052c95-610b-447a-9e18-36cbd9c83306/vegan_protein_vanilla_1776489531690.png",
+    image_url: "/demo/vegan.png",
     weight: "1kg",
     rating: 4.7
   },
@@ -51,7 +51,7 @@ const DEMO_PRODUCTS: Product[] = [
     description: "Slow-release strawberry flavor, perfect for muscle growth.",
     retail_price: 1950,
     wholesale_price: 1350,
-    image_url: "/Users/adarshsingh/.gemini/antigravity/brain/6a052c95-610b-447a-9e18-36cbd9c83306/casein_protein_strawberry_1776489548623.png",
+    image_url: "/demo/casein.png",
     weight: "1kg",
     rating: 4.9
   },
@@ -61,7 +61,7 @@ const DEMO_PRODUCTS: Product[] = [
     description: "Delicious cookies and cream flavor with real cookie bits.",
     retail_price: 1700,
     wholesale_price: 1300,
-    image_url: "/Users/adarshsingh/.gemini/antigravity/brain/6a052c95-610b-447a-9e18-36cbd9c83306/mass_gainer_cookies_1776489565594.png",
+    image_url: "/demo/gainer.png",
     weight: "1kg",
     rating: 4.6
   }
