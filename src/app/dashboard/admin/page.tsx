@@ -22,6 +22,9 @@ import {
   Mail,
   Clock,
   CheckCircle,
+  Lock,
+  Truck,
+  Key,
 } from "lucide-react";
 
 const DEMO_PRODUCTS: Product[] = [
